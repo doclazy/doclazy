@@ -19,7 +19,7 @@ __🌱 I’m currently learning__ Rust, C++20, IoT Architectures
 
 __💬 Ask me about__ anything related to C++ or programming in general
 
-__⚡ Fun fact__ The nick _doclazy_ came from my first book about programming: "PC-Programmierung in Maschinensprache". The author recommended to develop some kind of creative laziness which will drive your code towards high efficiency. Combined with a doctor and voila 😊
+__⚡ Fun fact__ The nick doclazy came from my first book about programming: "PC-Programmierung in Maschinensprache". The author recommended developing some kind of creative laziness which will drive your code towards high efficiency. Combined with a doctor and voila 😊.
 
 
 
