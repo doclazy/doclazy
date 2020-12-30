@@ -1,6 +1,6 @@
 ### Welcome to my github
 
-I'm a programming veteran started with x86 assembly on a i386. Since then i've seen quite a lot of things and technologies coming and going. Currently i'm focused on efficient build infrastructures/devops, test driven development, C++, Python and clean code methodologies.
+I'm a programming veteran started with x86 assembly on an i386. Since then, I've seen quite a lot of things and technologies coming and going. Currently, I'm focused on efficient build infrastructures/DevOps, IoT, Test Driven Development, C++, Python and Clean Code methodologies.
 
 <!--
 **doclazy/doclazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
