@@ -13,7 +13,7 @@ I'm a programming veteran started with x86 assembly on an i386. Since then, I've
 
 __🏭 Professionally, i'm working__ as a software architect for a large scale data storage & serving infrastructure used for autonomous driving and ML development and as a trainer for C++, Clean Code and TDD.
 
-__🔭 Privately, i'm working__ on SmartHome topics, Smartly increasing PV usage or a cloud enabled Heating system monitoring (pushed soon).
+__🔭 Privately, i'm working__ on SmartHome topics, smartly enhancing PV usage or a cloud enabled heating system monitor (heatlogd).
 
 __🌱 I’m currently learning__ Python, Microservice Architectures, Container Technologies, Go 
 
