@@ -15,7 +15,7 @@ __🏭 Professionally, i'm working__ as a software architect for a large scale d
 
 __🔭 Privately, i'm working__ on SmartHome topics, smartly enhancing PV usage or a cloud enabled heating system monitor (heatlogd).
 
-__🌱 I’m currently learning__ Python, Microservice Architectures, Container Technologies, Go 
+__🌱 I’m currently learning__ Python(3.5+), Microservice Architectures, Container Technologies
 
 __💬 Ask me about__ software development in C++ or Python, Software design and architecure or programming in general
 
